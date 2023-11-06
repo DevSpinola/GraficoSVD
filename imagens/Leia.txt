@@ -1,0 +1,5 @@
+Adicione dentro dessa pasta, as imagens após a compressão por SVD, elas devem ter nome padronizado:
+
+
+"{nomeDaImagem}_comprimida_{porcentagem}.jpg"
+
